@@ -43,4 +43,5 @@ $equipe3->display();
 $equipe4->display();
 EquipeFootball::nombreEquipesCrees();
 
+
 ?>
